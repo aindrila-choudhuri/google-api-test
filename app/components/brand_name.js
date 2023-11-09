@@ -12,9 +12,9 @@ const styles = StyleSheet.create({
   text: {
     color: '#FFF',
     fontFamily: 'Impact',
-    fontSize: '54px',
     fontStyle: 'normal',
     fontWeight: '400',
-    lineHeight: 'normal',
+    fontSize: 54,
+    lineHeight: undefined,
   },
 });

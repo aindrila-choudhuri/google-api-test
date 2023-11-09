@@ -5,7 +5,7 @@ export default function BrandName() {
   return (
     <View style={styles.container}>
       <Link to={{ screen: 'index' }}>Open home page</Link>
-      <Text style={styles.text}>Login Page</Text>
+      <Text style={styles.text}>Location Pointer Page</Text>
     </View>
   );
 }
